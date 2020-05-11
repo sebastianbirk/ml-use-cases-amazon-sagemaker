@@ -5,5 +5,5 @@ This repository contains many different examples of ML models built with Amazon'
 
 | File/folder                                             | Description                                |
 |---------------------------------------------------------|--------------------------------------------|
-| `plagiarism-detection`                                  |                                            |
+| `plagiarism-detection`                                  | SKLearn SVM                                |
 | `README.md`                                             | This README file.                          |
