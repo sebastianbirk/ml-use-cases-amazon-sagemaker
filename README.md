@@ -6,4 +6,5 @@ This repository contains many different examples of ML models built with Amazon'
 | File/folder                                             | Description                                |
 |---------------------------------------------------------|--------------------------------------------|
 | `plagiarism-detection`                                  | N-grams, LCS, SKLearn SVM                  |
+| `sentiment-analysis`                                    | BoW, PyTorch RNN                           |
 | `README.md`                                             | This README file.                          |
