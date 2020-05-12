@@ -5,8 +5,6 @@ This repository contains many different examples of ML models built with Amazon'
 
 | File/folder                           | Description                  | Feature Engineering              | Model
 |---------------------------------------|------------------------------|----------------------------------|------------
-| `plagiarism-detection`                | Supervised Learning - Binary Classification - Text Similarity              | N-grams, LCS                     | Scikit-learn SVM
-| `sentiment-analysis`                  | Supervised Learning
-                                          - Binary Classification -
-                                          Text Sentiment               | BoW                              | PyTorch LSTM (RNN)
+| `plagiarism-detection` | Supervised Learning - Binary Classification - Text Similarity | N-grams, LCS | Scikit-learn SVM
+| `sentiment-analysis` | Supervised Learning - Binary Classification - Text Sentiment | BoW | PyTorch LSTM (RNN)
 | `README.md`                           | This README file.                                               |
